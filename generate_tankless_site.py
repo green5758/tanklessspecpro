@@ -881,6 +881,7 @@ def render_calculator_page(page_data, is_home=False):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{title}</title>
+    <meta name="google-site-verification" content="pgvlG0f03ZrRZzbgDSXRhr6tsSfseFOhXCN6Yv_j5b8" />
     <meta name="description" content="{description}">
     <link rel="canonical" href="{canonical_url}">
     <link rel="alternate" type="application/rss+xml" title="{SITE_NAME} RSS Feed" href="{BASE_URL}/feed.xml">
